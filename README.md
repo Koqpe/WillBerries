@@ -1,1 +1,1 @@
-# WillBerries
+# WillBerries - учебный проект, верстка.
